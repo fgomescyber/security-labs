@@ -9,7 +9,7 @@ Purpose: practical test, repository of deliverables, and study roadmap for conso
 ---
 
 ## Executive summary (summary)
-- **Main objective:** Build a technical portfolio and practical experience about *Cyber Security Analyst*  with a focus on incident detection, triage, investigation, and response.
+- **Main objective:** Gain practical experience and build a technical portfolio as a Cyber Security Analyst, focusing on incident detection, triage, investigation, and response.
 - **Initial horizon:** 12 weeks (free focus) — 1 hour/day (Monday → Friday) = 5 hours/week.  
 - **Expected final products (minimum):**
   - 8–12 public write-ups (Markdown) with PoC + mitigations.
